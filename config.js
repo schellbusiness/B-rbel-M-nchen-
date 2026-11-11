@@ -5,5 +5,5 @@
 // geschützt werden eure Daten durch Login + die Regeln aus supabase/setup.sql.
 window.WOHNUNG_CONFIG = {
   supabaseUrl: 'https://vjdyxwzfonjpdyeoqrbj.supabase.co',
-  supabaseKey: '', // "anon"- bzw. "publishable"-Key aus Project Settings → API
+  supabaseKey: 'sb_publishable_r4Pr--RA_GD7b7lCKvTuQQ_tP8XJokp',
 };

@@ -40,9 +40,10 @@ Die Seite ist eine reine statische Webseite ohne Build-Schritt. Sie läuft bei j
 Geht nur, wenn das Repository öffentlich ist oder ihr GitHub Pro habt.
 Im Code stehen keine Geheimnisse. Eure Daten liegen geschützt hinter dem Login in Supabase.
 
-1. Im Repository **Settings → Pages**.
-2. *Source*: **Deploy from a branch**, den Branch mit der Seite wählen, Ordner **/ (root)**, **Save**.
-3. Nach 1–2 Minuten läuft die Seite unter `https://schellbusiness.github.io/Antalya-/`.
+1. Repository öffentlich machen: **Settings → General → ganz unten „Danger Zone“ → Change visibility → Public**.
+2. Dann **Settings → Pages**.
+3. *Source*: **Deploy from a branch**, als Branch `claude/nice-fermat-eatwml` wählen (bzw. `main`, falls ihr ihn dorthin gemergt habt), Ordner **/ (root)**, **Save**.
+4. Nach 1–2 Minuten läuft die Seite unter `https://schellbusiness.github.io/Antalya-/`.
 
 **Variante B: Netlify oder Cloudflare Pages (Repo bleibt privat)**
 

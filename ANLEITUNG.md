@@ -43,7 +43,7 @@ Im Code stehen keine Geheimnisse. Eure Daten liegen geschützt hinter dem Login 
 1. Repository öffentlich machen: **Settings → General → ganz unten „Danger Zone“ → Change visibility → Public**.
 2. Dann **Settings → Pages**.
 3. *Source*: **Deploy from a branch**, als Branch `claude/nice-fermat-eatwml` wählen (bzw. `main`, falls ihr ihn dorthin gemergt habt), Ordner **/ (root)**, **Save**.
-4. Nach 1–2 Minuten läuft die Seite unter `https://schellbusiness.github.io/Antalya-/`.
+4. Nach 1–2 Minuten läuft die Seite unter `https://schellbusiness.github.io/B-rbel-M-nchen-/`.
 
 **Variante B: Netlify oder Cloudflare Pages (Repo bleibt privat)**
 

@@ -27,7 +27,7 @@ export function Splash() {
 }
 
 export function Setup() {
-  const [url, setUrl] = useState('');
+  const [url, setUrl] = useState(window.WOHNUNG_CONFIG?.supabaseUrl || '');
   const [key, setKey] = useState('');
   const [err, setErr] = useState(state.error);
   const submit = (e) => {

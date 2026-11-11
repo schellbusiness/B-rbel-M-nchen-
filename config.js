@@ -4,6 +4,6 @@
 // Beide Werte sind für den Browser gedacht und dürfen öffentlich sein –
 // geschützt werden eure Daten durch Login + die Regeln aus supabase/setup.sql.
 window.WOHNUNG_CONFIG = {
-  supabaseUrl: '', // z. B. 'https://abcdefgh.supabase.co'
+  supabaseUrl: 'https://vjdyxwzfonjpdyeoqrbj.supabase.co',
   supabaseKey: '', // "anon"- bzw. "publishable"-Key aus Project Settings → API
 };
